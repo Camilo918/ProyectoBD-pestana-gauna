@@ -1,1 +1,2 @@
-# ProyectoBD-pestana-gauna
+Camilo Pestaña
+Ariel Gauna
